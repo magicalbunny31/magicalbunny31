@@ -19,4 +19,3 @@ I make stuff using NodeJS and Python in my free time!<br>
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magicalbunny31&repo=discord-bunny-bot-public)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicalbunny31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
