@@ -5,7 +5,7 @@ I'm a full-time furry, aviation enthusiast and programmer who does art ',:3<br>
 <br>
 I make stuff using NodeJS and Python in my free time!<br>
 
-### Some Kewl Epic Facts About Me~
+### some kewl facts about me~
 - I'm also known as FluffyCinnabunFolf!
 - I am probably the slowest programmer anyone can ever witness..
 - I mainly develop with NodeJS and Python!
