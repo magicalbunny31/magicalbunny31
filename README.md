@@ -11,7 +11,7 @@ I make stuff using NodeJS and Python in my free time!<br>
 - I mainly develop with NodeJS and Python!
 - I'd love to learn more about TypeScript, PHP, HTML, MySQL and Lua.
 - I typically work best independently. It's probably linked to my shyness out in the real world.
-- You can contact me over on my [Twitter](https://twitter.com/magicalbunny31 "Link to my Twitter account!"), [Telegram](https://t.me/magicalbunny31 "Link to open a chat with me on Telegram!") or [Discord](https://discord.gg/5cE7AjX "Invite to my Discord server!") (`magicalbunny31 ❄🎄#9221`)!
+- You can contact me over on my [Twitter](https://twitter.com/magicalbunny31 "Link to my Twitter account!"), [Telegram](https://t.me/magicalbunny31 "Link to open a chat with me on Telegram!") or [Discord](https://discord.gg/5cE7AjX "Invite to my Discord server!") (`magicalbunny31 ❄🎆#9221`)!
 - My pronouns are he/him.
 
 🇬🇧 | 🇵🇭 | 🏳️‍🌈
