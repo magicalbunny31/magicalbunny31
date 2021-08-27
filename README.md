@@ -1,7 +1,12 @@
 ## howdy! 🐾
 
-*what are you doing here?*<br>
-i'm a full-time furry, aviation enthusiast and programmer who does art ',:3<br>
+### *what are you doing here?*<br>
+i'm a:
+- full-time furry
+- aviation enthusiast
+- free-time NodeJS and Python programmer<br>
+<br>
+..who does art ',:3<br>
 <br>
 
 he/him
