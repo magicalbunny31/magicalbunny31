@@ -1,18 +1,15 @@
-## howdy! 🐾
-
-### *what are you doing here?*<br>
-i'm a:
-- full-time furry
-- aviation enthusiast
-- free-time NodeJS and Python programmer<br>
+a furry folf bunny, addicted to cinnabuns.. 🐾<br>
+› hobbyist backend dev and furry artist 📝<br>
+› [Node.js](https://nodejs.org "https://nodejs.org 🔗"), [Python](https://www.python.org "https://www.python.org 🔗") 💻<br>
 <br>
-..who does art ',:3<br>
+🐰🦊🐺🦌<br>
+🇬🇧 🇵🇭 🏳️‍🌈 he/him<br>
 <br>
 
-he/him
-
-🇬🇧 | 🇵🇭 | 🏳️‍🌈
-
----
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magicalbunny31&repo=discord-bun-bot-public)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://discord.gg/5cE7AjX" target="_blank">
+  <img src="./server-invite.png" width="25%" alt="discord invite to my server 🐾">
+</a>
+<br>
+<a href="https://discord.com/api/oauth2/authorize?client_id=555489775981953045&permissions=534152342615&scope=bot%20applications.commands" target="_blank">
+  <img src="./bun-invite.png" width="25%" alt="invite my bot bun ">
+</a>
