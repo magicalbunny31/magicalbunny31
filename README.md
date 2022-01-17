@@ -1,6 +1,6 @@
 a furry folf bunny, addicted to cinnabuns.. 🐾<br>
 › hobbyist backend dev and furry artist 📝<br>
-› [Node.js](https://nodejs.org "https://nodejs.org 🔗"), [Python](https://www.python.org "https://www.python.org 🔗") 💻<br>
+› [Node.js](https://nodejs.org "https://nodejs.org 🔗"), [Typescript](https://www.typescriptlang.org "https://www.typescriptlang.org/ 🔗"), [Python](https://www.python.org "https://www.python.org 🔗") 💻<br>
 <br>
 🐰🦊🐺🦌<br>
 🇬🇧 🇵🇭 🏳️‍🌈 he/him<br>
