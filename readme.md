@@ -1,11 +1,41 @@
-a furry folf bunny, addicted to cinnabuns.. 🐾<br>
-› discord developer and furry artist 🐰🦊🐺🦌<br>
-› [Node.js](https://nodejs.org "https://nodejs.org 🔗"), [Typescript](https://www.typescriptlang.org "https://www.typescriptlang.org/ 🔗"), [Python](https://www.python.org "https://www.python.org 🔗") 🇬🇧 🇵🇭 🏳️‍🌈<br>
-
+<em>a furry folf bunny, addicted to cinnabuns.. 🐾</em>
+<br/>
+<br/>
+✨ verified discord app developer
+<br/>
+✨ pawful furry artist
+<br/>
+💻 [node.js](https://nodejs.org), [python](https://www.python.org)
+<br/>
+<br/>
+🐰🦊🐺🦌
+<br/>
+https://nuzzles.dev 🇬🇧 🇵🇭 🏳️‍🌈
 
 ---
 
-[discord server 💻](https://nuzzles.dev/discord)<br>
-[discord bot : fox bot 🦊](https://discord.com/application-directory/964619726888239255)<br>
-~~discord bot : bun 🐰~~<br>
-~~discord bot : aviator's handbook 🛫~~
+<ul>
+  <li>
+    💬
+    <a href="https://nuzzles.dev/discord">discord server</a>
+  </li>
+  <li>
+    🤖
+    discord app :
+    <a href="https://nuzzles.dev/fox-bot">fox bot 🦊</a>
+  </li>
+  <li>
+    🤖
+    discord app :
+    <a href="https://nuzzles.dev/bun">bun 🐰</a>
+  </li>
+  <li>
+    🤖
+    discord app :
+    <a href="https://nuzzles.dev/travel-handbook">travel handbook 🛫</a>
+  </li>
+  <li>
+    📰
+    <a href="https://nuzzles.dev">view more socials and other links on nuzzles.dev..</a>
+  </li>
+</ul>
