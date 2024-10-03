@@ -1,16 +1,17 @@
-<em>a furry folf bunny, addicted to cinnabuns.. 🐾</em>
+<img src="https://nuzzles.dev/assets/emoji/mutant_standard/nonbinary_flag.webp" width="20"> <img src="https://nuzzles.dev/assets/emoji/mutant_standard/pansexual_flag.webp" width="20"> : `🐰🦊🐺🦌` `🐾`
+<br/>
+a furry folf bunny, addicted to cinnabuns..
 <br/>
 <br/>
 ✨ verified discord app developer
 <br/>
 ✨ pawful furry artist
 <br/>
-💻 [node.js](https://nodejs.org), [python](https://www.python.org)
+<br/>
+<img src="https://nuzzles.dev/assets/emoji/pulexart/happ.png" width="48"> <img src="https://nuzzles.dev/assets/emoji/pulexart/happ.png" width="48"> <img src="https://nuzzles.dev/assets/emoji/pulexart/happ.png" width="48">
 <br/>
 <br/>
-🐰🦊🐺🦌
-<br/>
-https://nuzzles.dev 🇬🇧 🇵🇭 🏳️‍🌈
+🇬🇧 🇵🇭 🏳️‍🌈
 
 ---
 
