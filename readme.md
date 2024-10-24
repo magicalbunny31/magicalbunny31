@@ -31,11 +31,6 @@ a furry folf bunny, addicted to cinnabuns..
     <a href="https://nuzzles.dev/bun">bun 🐰</a>
   </li>
   <li>
-    🤖
-    discord app :
-    <a href="https://nuzzles.dev/travel-handbook">travel handbook 🛫</a>
-  </li>
-  <li>
     📰
     <a href="https://nuzzles.dev">view more socials and other links on nuzzles.dev..</a>
   </li>
