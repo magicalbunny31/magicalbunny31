@@ -19,7 +19,7 @@ a furry folf bunny, addicted to cinnabuns..
    - 💻 [Node.js](https://nodejs.org) (**advanced**, since **2019**)
    - 💻 [Python](https://www.python.org) (**intermediate**, since **2019**)
    - 💻 [TypeScript](https://www.typescriptlang.org) (**intermediate**, since **2022**)
-   - 💻 [HTML5](https://wikipedia.org/wiki/HTML5), [CSS 3](https://wikipedia.org/wiki/CSS#CSS_3), [JavaScript](https://wikipedia.org/wiki/JavaScript) (**beginner**, since **2022**)
+   - 💻 [HTML5](https://wikipedia.org/wiki/HTML5), [CSS](https://wikipedia.org/wiki/CSS), [JavaScript](https://wikipedia.org/wiki/JavaScript) (**beginner**, since **2022**)
    - 💻 [SQL](https://wikipedia.org/wiki/SQL) (**beginner**, since **2023**)
 - ✨ `tools i use`
    - 🔧 [Discord API](https://discord.com/developers/docs/intro), social platform developer WebSocket/REST API (**advanced**, since **2018**)
